@@ -1,0 +1,11 @@
+Find the link to my deployed app here: 
+
+I've created extra time-blocks in HTML to be able to store daily tasks in there 
+I've added localStorage so when I enter a task, and exit the browser, the task remains in the browser memory
+I've made sure the current date and time appears in the header
+I've added a function to keep track of the current time as it updates then again this has the abiloty to compare the currentTime versusa blockTime with 3 x classes. Past, present and future. 
+This classes simply change the colour of the time blocks when the time is in past, present or future. 
+!
+
+This is a preview of my deployed app, unfortunately, as it's 8:20pm, no colour coding displays
+
