@@ -1,4 +1,4 @@
-Find the link to my deployed app here: 
+Find the link to my deployed app here:  https://blancahidalgo.github.io/calendar-fifthchallenge/
 
 I've created extra time-blocks in HTML to be able to store daily tasks in there 
 I've added localStorage so when I enter a task, and exit the browser, the task remains in the browser memory
@@ -9,3 +9,4 @@ This classes simply change the colour of the time blocks when the time is in pas
 
 This is a preview of my deployed app, unfortunately, as it's 8:20pm, no colour coding displays
 
+![alt text](Assets/.Screenshot 2023-03-15 at 8.20.52 pm.png)
